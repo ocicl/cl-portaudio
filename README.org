@@ -1,0 +1,10 @@
+* cl-portaudio
+
+Common Lisp bindings to portaudio library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/filonenko-mikhail/cl-portaudio.git   |
+| commit  | c50cd06  |
+| systems | cl-portaudio |
+|---------+-------------------------------------------|
+
